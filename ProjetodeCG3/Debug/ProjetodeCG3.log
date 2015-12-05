@@ -1,0 +1,11 @@
+﻿Build started 26/11/2015 20:12:49.
+     1>Project "C:\Users\notebruno\documents\visual studio 2013\Projects\ProjetodeCG3\ProjetodeCG3\ProjetodeCG3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Hello World.cpp"
+         Hello World.cpp
+     1>c:\users\notebruno\documents\visual studio 2013\projects\projetodecg3\projetodecg3\hello world.cpp(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+     1>Done Building Project "C:\Users\notebruno\documents\visual studio 2013\Projects\ProjetodeCG3\ProjetodeCG3\ProjetodeCG3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.87
